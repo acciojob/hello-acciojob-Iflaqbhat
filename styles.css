@@ -1,2 +1,13 @@
+/* Styling the main element */
+#job {
+  width: 150px;
+  height: 150px;
+  background-color: #000000;
+}
 
-/* Your CSS Code here. */
+/* Styling the paragraph element with class 'hello-accio' */
+.hello-accio {
+  color: #ffffff; /* Corrected property name (Text-color -> color) */
+  margin-left: 32px; /* Corrected property name (Left-margin -> margin-left) */
+  padding: 10px;
+}
